@@ -1,11 +1,11 @@
 body {
     font-family: Arial, sans-serif;
     margin: 40px;
-    background-color: #f4f4f4;
+    background-color: rgb(216, 52, 52);
 }
 
 h1 {
-    color: #333;
+    color: yellow#fc0000333;
 }
 
 p {
